@@ -12,7 +12,7 @@ This work studies learner–client distribution mismatch in federated learning. 
 
 ## Paper
 
-- [paper.pdf](./paper.pdf)
+- [Beyond Non-IID: Target-Client Distribution Mismatch in Federated Learning](./Beyond_Non_IID_Target_Client_Distribution_Mismatch_in_Federated_Learning.pdf)
 
 ## Authors
 
