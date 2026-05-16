@@ -1,11 +1,20 @@
+
+```markdown id="ekozrn"
+# Beyond Non-IID: Learner–Client Distribution Mismatch in Federated Learning
+
+This repository contains the manuscript and supporting materials for the project proposal:
+
 **Beyond Non-IID: Learner–Client Distribution Mismatch in Federated Learning**
 
 ## Overview
 
 Federated learning is commonly studied under non-IID client data distributions, where the global objective is often defined over the overall client population. However, in many practical settings, the learner may care about a specific target distribution that differs from the population distribution of participating clients.
 
-This work studies the problem of learner–client distribution mismatch in federated learning. We investigate how client selection and aggregation should be adapted when the learner's target distribution is different from the overall client population.
+This work studies learner–client distribution mismatch in federated learning. We investigate how client selection and aggregation can be adapted when the learner's target distribution differs from the overall client population.
 
+## Paper
+
+- [paper.pdf](./paper.pdf)
 
 ## Authors
 
@@ -13,8 +22,10 @@ This work studies the problem of learner–client distribution mismatch in feder
 - Lili Su
 - Ningfang Mi
 
-## Citation
+## Status
 
-If you find this work useful, please cite:
+This manuscript is prepared as part of an proposal.
 
-```bibtex
+## License
+
+The paper and written materials are provided for academic and research purposes.
