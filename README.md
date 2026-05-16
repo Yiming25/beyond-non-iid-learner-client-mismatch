@@ -2,8 +2,6 @@
 ```markdown id="ekozrn"
 # Beyond Non-IID: Learner–Client Distribution Mismatch in Federated Learning
 
-This repository contains the manuscript and supporting materials for the project proposal:
-
 **Beyond Non-IID: Learner–Client Distribution Mismatch in Federated Learning**
 
 ## Overview
